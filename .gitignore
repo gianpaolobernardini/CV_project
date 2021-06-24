@@ -1,0 +1,15 @@
+city_road_image_1/*
+city_road_image_2/*
+city_road_projections_1/*
+city_road_projections_2/*
+lena_walk1_of/*
+lena_walk1_of_projs/*
+lena_walk1_projections/*
+projections/*
+*.zip
+CV projects.pptx
+~$*.docx
+~$*.pptx
+.vs/*
+GCK_project/.vs/*
+GCK_project/__pycache__/*
